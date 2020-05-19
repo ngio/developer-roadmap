@@ -1,4 +1,4 @@
-![웹 개발자 로드맵 - 2019](https://i.imgur.com/s5cCV9q.png)
+![웹 개발자 로드맵 - 2019](https://i.imgur.com/s5cCV9q.png) 이제 2020년인데...
 
 > Roadmap to becoming a web developer in 2019
 
